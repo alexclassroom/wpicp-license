@@ -2,9 +2,9 @@
 Contributors: wpfanyi
 Tags: ICP, ICP License, ICP Beian,备案,备案号
 Requires at least: 5.4
-Tested up to: 6.2
+Tested up to: 6.6
 Requires PHP: 5.6
-Stable tag: 1.2
+Stable tag: 1.3
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -68,6 +68,12 @@ Starting with WP ICP License consists of just two steps: installing and setting 
 
 == Changelog ==
 
+### 1.3 ###
+
+* Add Chinese company name and EDI/APP/MiniAPP ICP license short codes.
+* Use short code [wpicp_company] to display full company name.
+* Use short code [wpicp_email] to display report email.
+* Use short code [wpicp_phone] to display complaint hotline.
 
 ### 1.2 ###
 
