@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WPICP License\n"
 "POT-Creation-Date: 2024-07-05 15:33+0800\n"
-"PO-Revision-Date: 2024-07-05 15:36+0800\n"
+"PO-Revision-Date: 2024-07-06 12:23+0800\n"
 "Last-Translator: 薇晓朵 <support@weixiaoduo.com>\n"
 "Language-Team: 薇晓朵 <support@weixiaoduo.com>\n"
 "Language: zh_CN\n"
@@ -292,8 +292,8 @@ msgid "Use the shortcode <code>[wpicp_app]</code>"
 msgstr "使用简码 <code>[wpicp_app]</code>"
 
 #: wpicp-license.php:285
-msgid "Use the shortcode <code>[wpicp_minipapp]</code>"
-msgstr "使用简码 <code>[wpicp_minipapp]</code>"
+msgid "Use the shortcode <code>[wpicp_miniapp]</code>"
+msgstr "使用简码 <code>[wpicp_miniapp]</code>"
 
 #: wpicp-license.php:294
 msgid "ICP License Settings"

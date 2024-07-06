@@ -138,11 +138,11 @@ function wpicp_app_shortcode() {
     }
 }
 
-// Add wpicp_minipapp shortcode
-add_shortcode('wpicp_minipapp', 'wpicp_minipapp_shortcode');
-function wpicp_minipapp_shortcode() {
-    $wpicp_minipapp = get_option('wpicp_minipapp');
-    if ($wpicp_minipapp) {
-        return esc_html($wpicp_minipapp);
+// Add wpicp_miniapp shortcode
+add_shortcode('wpicp_miniapp', 'wpicp_miniapp_shortcode');
+function wpicp_miniapp_shortcode() {
+    $wpicp_miniapp = get_option('wpicp_miniapp');
+    if ($wpicp_miniapp) {
+        return esc_html($wpicp_miniapp);
     }
 }
